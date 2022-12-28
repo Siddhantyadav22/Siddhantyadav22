@@ -1,6 +1,9 @@
 # 💫 About Me:
 - 👋 Hi, I’m @Siddhantyadav22
-- 🔭 I’m currently working on Android Development<br>🤝 I’m looking for help with Google<br>🌱 I’m currently learning Android Development Using Java<br>💬 Ask me about Python, HTML, CSS, JavaScript, reactJs, JAVA, C.
+- 🔭 I’m currently working on Android Development<br>
+- 🤝 I’m looking for help with Google<br>
+- 🌱 I’m currently learning Android Development Using Java<br>
+- 💬 Ask me about Python, HTML, CSS, JavaScript, reactJs, JAVA, C.
 - 📫 How to reach me siddhant2221@gmail.com
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Siddhant Yadav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Siddhant.yadav__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siddhant Yadav) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Siddhant2221) 
